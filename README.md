@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos
-- 👀 I’m interested in ML, AI, and other IT stuffs.
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on all i could do
+- 👀 I’m interested in ML, AI, programming, and other IT stuffs.
+- 🌱 I’m currently learning ML and Phyton
+- 💞️ I’m looking to collaborate on all I could do
 - 📫 How to reach me: you will know if you should know
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm learning German to keep my mind active
