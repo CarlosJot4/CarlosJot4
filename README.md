@@ -23,6 +23,8 @@ Estudei Engenharia de software pela Universidade federal de Goiás, formando em 
 
 ## 😎 Aprendendo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Prompt](https://img.shields.io/badge/Prompt-black)
+![AI](https://img.shields.io/badge/ArtificialIntelligence-blue)
 
 ---
 
