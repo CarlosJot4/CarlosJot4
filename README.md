@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in ML, AI, programming, and other IT stuffs.
-- 🌱 I’m currently learning ML and Phyton
+- 🌱 I’m currently learning ML, IA and Phyton
 - 💞️ I’m looking to collaborate on all I could do
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosjota/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/carlos.junior.50596/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jota.zac/)
 - 😄 Pronouns: he/him
