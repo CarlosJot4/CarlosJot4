@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, AI, programming, and other IT stuffs.
 - 🌱 I’m currently learning ML and Phyton
 - 💞️ I’m looking to collaborate on all I could do
-- 📫 How to reach me: you will know if you should know
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosjota/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/carlos.junior.50596/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jota.zac/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm learning German to keep my mind active
 
@@ -12,6 +12,8 @@ Estudei Engenharia de software pela Universidade federal de Goiás, formando em 
 
 ## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosjota/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/carlos.junior.50596/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jota.zac/)
 
 # 💻 Algumas tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
